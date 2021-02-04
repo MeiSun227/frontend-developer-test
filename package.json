@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "4.9.5",
+    "@material-ui/data-grid": "^4.0.0-alpha.8",
     "@material-ui/icons": "4.9.1",
     "react": "16.13.0",
     "react-dom": "16.13.0",
@@ -31,6 +32,8 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.2"
   }
